@@ -1,0 +1,2 @@
+# hangmanconstructor
+hard node hangman.
